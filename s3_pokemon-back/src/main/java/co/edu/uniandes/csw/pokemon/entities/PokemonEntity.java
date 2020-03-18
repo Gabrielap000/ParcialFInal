@@ -16,7 +16,7 @@ import uk.co.jemos.podam.common.PodamExclude;
 
 /**
  *
- * @author estudiante
+ * @author mg.paez
  */
 public class PokemonEntity extends BaseEntity implements Serializable
 {
